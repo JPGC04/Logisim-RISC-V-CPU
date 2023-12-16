@@ -50,7 +50,7 @@ The CPU, along with its assembler, can process the following instructions:
 ## How to Use
 
 1. **Logisim CPU:**
-   - Open `cpu.circ` using Logisim 3.8.0 or the modified version `Logisim 3.9.0dev`.
+   - Open `cpu.circ` using `Logisim 3.8.0` or the modified version `Logisim 3.9.0dev`.
 
 2. **Assembler:**
    - Run the Python script in the `Assembler` directory to convert ARM-style assembly into hexadecimal code.
@@ -61,6 +61,6 @@ The CPU, along with its assembler, can process the following instructions:
 
 ## Project Details
 
-- **Created:** September 2022
+- **Created:** September 2023
 - **Last Updated:** December 2023 (or specify the last update date)
 - **Update:** Added Python assembler script (`assembler.py`) to convert ARM-style assembly to hexadecimal instructions.
