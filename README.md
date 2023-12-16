@@ -58,3 +58,9 @@ The CPU, along with its assembler, can process the following instructions:
 
 3. **Simulation:**
    - Simulate the CPU by enabling and disabling `Auto-Tick` to process the code in ROM or by using manual click cycles.
+
+## Project Details
+
+- **Created:** September 2022
+- **Last Updated:** December 2023 (or specify the last update date)
+- **Update:** Added Python assembler script (`assembler.py`) to convert ARM-style assembly to hexadecimal instructions.
