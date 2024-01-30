@@ -1,10 +1,7 @@
 # Logisim RISC-V CPU
-
-This project is an extension of Lab 1 for ECSE 324 - Computer Organization at McGill University.
-
 ## Overview
 
-The project consists of a 16-bit RISC-V Logisim CPU, an assembler for ARM-style assembly, and test files for various CPU components.
+This project consists of a 16-bit RISC-V Logisim CPU, an assembler for ARM-style assembly, and test files for various CPU components.
 
 ### Logisim CPU
 
