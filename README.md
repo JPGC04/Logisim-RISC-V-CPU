@@ -59,5 +59,5 @@ The CPU, along with its assembler, can process the following instructions:
 ## Project Details
 
 - **Created:** September 2023
-- **Last Updated:** December 2023 (or specify the last update date)
+- **Last Updated:** December 2023
 - **Update:** Added Python assembler script (`assembler.py`) to convert ARM-style assembly to hexadecimal instructions.
